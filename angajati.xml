@@ -1,0 +1,51 @@
+<Employees>
+  <Employee id="1">
+    <name>Lica Robert</name>
+    <age>21</age>
+    <gender>Male</gender>
+  </Employee>
+
+  <Employee id="2">
+    <name>Dumitrescu Alex</name>
+    <age>22</age>
+    <gender>Male</gender>
+    
+  </Employee>
+  <Employee id="3">
+    <name>Fira Adrian</name>
+    <age>30</age>
+    <gender>Male</gender>
+   
+  </Employee>
+  <Employee id="4">
+    <name>Leana Florea</name>
+    <age>34</age>
+    <gender>Female</gender>
+    
+  </Employee>
+  <Employee id="5">
+    <name>Cosmina Alexandra</name>
+    <age>25</age>
+    <gender>Female</gender>
+  
+  </Employee>
+  <Employee id="6">
+    <name>Dorin Iancu</name>
+    <age>44</age>
+    <gender>Male</gender>
+
+  </Employee>
+  <Employee id="7">
+    <name>Grigorie Danut</name>
+    <age>31</age>
+    <gender>Male</gender>
+
+ </Employee>
+  <Employee id="8">
+    <name>Elena Stoica</name>
+    <age>45</age>
+    <gender>Female</gender>
+
+
+  </Employee>
+</Employees>
